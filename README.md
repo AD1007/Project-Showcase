@@ -16,3 +16,5 @@ The computer will make its move and the results will be displayed.
 6.CURRENCY_CONVERTER:> Go to the given website and collect your own API and put it in the code.
 
 7.NUMBER_GUESSING_GAME_UI :> Same algorithm and Idea as 5th one. But it have a UI in addition.
+
+8. NUMBER_GUESING_GAME_HUMAN~COMPUTER :> Same number guessing game, but this time you have to compete with the machine itself
