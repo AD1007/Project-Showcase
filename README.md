@@ -19,4 +19,3 @@ The computer will make its move and the results will be displayed.
 
 8. NUMBER_GUESING_GAME_HUMAN~COMPUTER :> Same number guessing game, but this time you have to compete with the machine itself
 9. STATISTICAL_METHODS(Using own library stats) :> Doing statistical calculations is not tough, but making with your own library, turns it into master code
-10. 
